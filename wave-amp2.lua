@@ -726,7 +726,7 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER I
 AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ]]
-monitor = peripheral.wrap("right")
+monitor = peripheral.find("monitor")
 local wave = { }
 wave.version = "2.0.0"
 
@@ -1731,7 +1731,7 @@ local function run()
 			running = false
 		elseif e[1] == "monitor_resize" then
 			screenWidth, screenHeight = monitor.getSize()
-		elseif e[1] == "mouse_click" then
+		elseif e[1] == "monitor_touch" then
 			handleClick(e[3], e[4])
 		elseif e[1] == "mouse_scroll" then
 			handleScroll(e[3], e[4], e[2])
