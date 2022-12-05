@@ -40,7 +40,7 @@ you modify it: responsibilities to respect the freedom of others.
   For example, if you distribute copies of such a program, whether
 gratis or for a fee, you must pass on to the recipients the same
 freedoms that you received.  You must make sure that they, too, receive
-or can get the source code.  And you must show them these terms so they
+or can get the source code.  And you must show them these monitors so they
 know their rights.
 
   Developers that use the GNU GPL protect your rights with two steps:
@@ -71,10 +71,10 @@ avoid the special danger that patents applied to a free program could
 make it effectively proprietary.  To prevent this, the GPL assures that
 patents cannot be used to render the program non-free.
 
-  The precise terms and conditions for copying, distribution and
+  The precise monitors and conditions for copying, distribution and
 modification follow.
 
-                       TERMS AND CONDITIONS
+                       monitorS AND CONDITIONS
 
   0. Definitions.
 
@@ -159,7 +159,7 @@ same work.
 
   2. Basic Permissions.
 
-  All rights granted under this License are granted for the term of
+  All rights granted under this License are granted for the monitor of
 copyright on the Program, and are irrevocable provided the stated
 conditions are met.  This License explicitly affirms your unlimited
 permission to run the unmodified Program.  The output from running a
@@ -172,10 +172,10 @@ convey, without conditions so long as your license otherwise remains
 in force.  You may convey covered works to others for the sole purpose
 of having them make modifications exclusively for you, or provide you
 with facilities for running those works, provided that you comply with
-the terms of this License in conveying all material for which you do
+the monitors of this License in conveying all material for which you do
 not control copyright.  Those thus making or running the covered works
 for you must do so exclusively on your behalf, under your direction
-and control, on terms that prohibit them from making any copies of
+and control, on monitors that prohibit them from making any copies of
 your copyrighted material outside their relationship with you.
 
   Conveying under any other circumstances is permitted solely under
@@ -204,7 +204,7 @@ technological measures.
 receive it, in any medium, provided that you conspicuously and
 appropriately publish on each copy an appropriate copyright notice;
 keep intact all notices stating that this License and any
-non-permissive terms added in accord with section 7 apply to the code;
+non-permissive monitors added in accord with section 7 apply to the code;
 keep intact all notices of the absence of any warranty; and give all
 recipients a copy of this License along with the Program.
 
@@ -215,7 +215,7 @@ and you may offer support or warranty protection for a fee.
 
   You may convey a work based on the Program, or the modifications to
 produce it from the Program, in the form of source code under the
-terms of section 4, provided that you also meet all of these conditions:
+monitors of section 4, provided that you also meet all of these conditions:
 
     a) The work must carry prominent notices stating that you modified
     it, and giving a relevant date.
@@ -228,7 +228,7 @@ terms of section 4, provided that you also meet all of these conditions:
     c) You must license the entire work, as a whole, under this
     License to anyone who comes into possession of a copy.  This
     License will therefore apply, along with any applicable section 7
-    additional terms, to the whole of the work, and all its parts,
+    additional monitors, to the whole of the work, and all its parts,
     regardless of how they are packaged.  This License gives no
     permission to license the work in any other way, but it does not
     invalidate such permission if you have separately received it.
@@ -250,9 +250,9 @@ parts of the aggregate.
 
   6. Conveying Non-Source Forms.
 
-  You may convey a covered work in object code form under the terms
+  You may convey a covered work in object code form under the monitors
 of sections 4 and 5, provided that you also convey the
-machine-readable Corresponding Source under the terms of this License,
+machine-readable Corresponding Source under the monitors of this License,
 in one of these ways:
 
     a) Convey the object code in, or embodied in, a physical product
@@ -303,7 +303,7 @@ included in conveying the object code work.
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
 or household purposes, or (2) anything designed or sold for incorporation
-into a dwelling.  In determining whether a product is a consumer product,
+into a dwelling.  In demonitorining whether a product is a consumer product,
 doubtful cases shall be resolved in favor of coverage.  For a particular
 product received by a particular user, "normally used" refers to a
 typical or common use of that class of product, regardless of the status
@@ -325,7 +325,7 @@ modification has been made.
 specifically for use in, a User Product, and the conveying occurs as
 part of a transaction in which the right of possession and use of the
 User Product is transferred to the recipient in perpetuity or for a
-fixed term (regardless of how the transaction is characterized), the
+fixed monitor (regardless of how the transaction is characterized), the
 Corresponding Source conveyed under this section must be accompanied
 by the Installation Information.  But this requirement does not apply
 if neither you nor any third party retains the ability to install
@@ -346,9 +346,9 @@ documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
 unpacking, reading or copying.
 
-  7. Additional Terms.
+  7. Additional monitors.
 
-  "Additional permissions" are terms that supplement the terms of this
+  "Additional permissions" are monitors that supplement the monitors of this
 License by making exceptions from one or more of its conditions.
 Additional permissions that are applicable to the entire Program shall
 be treated as though they were included in this License, to the extent
@@ -366,10 +366,10 @@ for which you have or can give appropriate copyright permission.
 
   Notwithstanding any other provision of this License, for material you
 add to a covered work, you may (if authorized by the copyright holders of
-that material) supplement the terms of this License with terms:
+that material) supplement the monitors of this License with monitors:
 
     a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 15 and 16 of this License; or
+    monitors of sections 15 and 16 of this License; or
 
     b) Requiring preservation of specified reasonable legal notices or
     author attributions in that material or in the Appropriate Legal
@@ -391,37 +391,37 @@ that material) supplement the terms of this License with terms:
     any liability that these contractual assumptions directly impose on
     those licensors and authors.
 
-  All other non-permissive additional terms are considered "further
+  All other non-permissive additional monitors are considered "further
 restrictions" within the meaning of section 10.  If the Program as you
 received it, or any part of it, contains a notice stating that it is
-governed by this License along with a term that is a further
-restriction, you may remove that term.  If a license document contains
+governed by this License along with a monitor that is a further
+restriction, you may remove that monitor.  If a license document contains
 a further restriction but permits relicensing or conveying under this
-License, you may add to a covered work material governed by the terms
+License, you may add to a covered work material governed by the monitors
 of that license document, provided that the further restriction does
 not survive such relicensing or conveying.
 
-  If you add terms to a covered work in accord with this section, you
+  If you add monitors to a covered work in accord with this section, you
 must place, in the relevant source files, a statement of the
-additional terms that apply to those files, or a notice indicating
-where to find the applicable terms.
+additional monitors that apply to those files, or a notice indicating
+where to find the applicable monitors.
 
-  Additional terms, permissive or non-permissive, may be stated in the
+  Additional monitors, permissive or non-permissive, may be stated in the
 form of a separately written license, or stated as exceptions;
 the above requirements apply either way.
 
-  8. Termination.
+  8. monitorination.
 
   You may not propagate or modify a covered work except as expressly
 provided under this License.  Any attempt otherwise to propagate or
-modify it is void, and will automatically terminate your rights under
+modify it is void, and will automatically monitorinate your rights under
 this License (including any patent licenses granted under the third
 paragraph of section 11).
 
   However, if you cease all violation of this License, then your
 license from a particular copyright holder is reinstated (a)
 provisionally, unless and until the copyright holder explicitly and
-finally terminates your license, and (b) permanently, if the copyright
+finally monitorinates your license, and (b) permanently, if the copyright
 holder fails to notify you of the violation by some reasonable means
 prior to 60 days after the cessation.
 
@@ -432,9 +432,9 @@ received notice of violation of this License (for any work) from that
 copyright holder, and you cure the violation prior to 30 days after
 your receipt of the notice.
 
-  Termination of your rights under this section does not terminate the
+  monitorination of your rights under this section does not monitorinate the
 licenses of parties who have received copies or rights from you under
-this License.  If your rights have been terminated and not permanently
+this License.  If your rights have been monitorinated and not permanently
 reinstated, you do not qualify to receive new licenses for the same
 material under section 10.
 
@@ -504,7 +504,7 @@ patent against the party.
 
   If you convey a covered work, knowingly relying on a patent license,
 and the Corresponding Source of the work is not available for anyone
-to copy, free of charge and under the terms of this License, through a
+to copy, free of charge and under the monitors of this License, through a
 publicly available network server or other readily accessible means,
 then you must either (1) cause the Corresponding Source to be so
 available, or (2) arrange to deprive yourself of the benefit of the
@@ -550,9 +550,9 @@ otherwise) that contradict the conditions of this License, they do not
 excuse you from the conditions of this License.  If you cannot convey a
 covered work so as to satisfy simultaneously your obligations under this
 License and any other pertinent obligations, then as a consequence you may
-not convey it at all.  For example, if you agree to terms that obligate you
+not convey it at all.  For example, if you agree to monitors that obligate you
 to collect a royalty for further conveying from those to whom you convey
-the Program, the only way you could satisfy both those terms and this
+the Program, the only way you could satisfy both those monitors and this
 License would be to refrain entirely from conveying the Program.
 
   13. Use with the GNU Affero General Public License.
@@ -560,7 +560,7 @@ License would be to refrain entirely from conveying the Program.
   Notwithstanding any other provision of this License, you have
 permission to link or combine any covered work with a work licensed
 under version 3 of the GNU Affero General Public License into a single
-combined work, and to convey the resulting work.  The terms of this
+combined work, and to convey the resulting work.  The monitors of this
 License will continue to apply to the part which is the covered work,
 but the special requirements of the GNU Affero General Public License,
 section 13, concerning interaction through a network will apply to the
@@ -576,7 +576,7 @@ address new problems or concerns.
   Each version is given a distinguishing version number.  If the
 Program specifies that a certain numbered version of the GNU General
 Public License "or any later version" applies to it, you have the
-option of following the terms and conditions either of that numbered
+option of following the monitors and conditions either of that numbered
 version or of any later version published by the Free Software
 Foundation.  If the Program does not specify a version number of the
 GNU General Public License, you may choose any version ever published
@@ -618,19 +618,19 @@ SUCH DAMAGES.
   17. Interpretation of Sections 15 and 16.
 
   If the disclaimer of warranty and limitation of liability provided
-above cannot be given local legal effect according to their terms,
+above cannot be given local legal effect according to their monitors,
 reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
-                     END OF TERMS AND CONDITIONS
+                     END OF monitorS AND CONDITIONS
 
-            How to Apply These Terms to Your New Programs
+            How to Apply These monitors to Your New Programs
 
   If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
-free software which everyone can redistribute and change under these terms.
+free software which everyone can redistribute and change under these monitors.
 
   To do so, attach the following notices to the program.  It is safest
 to attach them to the start of each source file to most effectively
@@ -641,7 +641,7 @@ the "copyright" line and a pointer to where the full notice is found.
     Copyright (C) <year>  <name of author>
 
     This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
+    it under the monitors of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
@@ -655,7 +655,7 @@ the "copyright" line and a pointer to where the full notice is found.
 
 Also add information on how to contact you by electronic and paper mail.
 
-  If the program does terminal interaction, make it output a short
+  If the program does monitorinal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
     <program>  Copyright (C) <year>  <name of author>
@@ -726,7 +726,7 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER I
 AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ]]
-
+monitor = peripheral.wrap("right")
 local wave = { }
 wave.version = "2.0.0"
 
@@ -1235,7 +1235,7 @@ local context, track, instance
 local noUI = false
 local exitAfter = false
 local noInput = false
-local screenWidth, screenHeight = term.getSize()
+local screenWidth, screenHeight = monitor.getSize()
 local trackScroll = 0
 local currentTrack = 1
 local vsEasings = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
@@ -1243,7 +1243,7 @@ local vsStep = 10
 local vsDecline = 0.25
 
 -- theme
-local theme = term.isColor() and
+local theme = monitor.isColor() and
 		{
 			topBar = colors.lime,
 			topBarTitle = colors.white,
@@ -1501,31 +1501,31 @@ end
 
 local function drawStatic()
 	if noUI then return end
-	term.setCursorPos(1, 1)
-	term.setBackgroundColor(theme.topBar)
-	term.setTextColor(theme.topBarTitle)
-	term.write("wave-amp2 (with OpenNBS support)")
-	term.write((" "):rep(screenWidth - 49))
-	term.setTextColor(trackMode == 1 and theme.topBarOptionSelected or theme.topBarOption)
-	term.write("nrm ")
-	term.setTextColor(trackMode == 2 and theme.topBarOptionSelected or theme.topBarOption)
-	term.write("stp ")
-	term.setTextColor(trackMode == 3 and theme.topBarOptionSelected or theme.topBarOption)
-	term.write("rep ")
-	term.setTextColor(trackMode == 4 and theme.topBarOptionSelected or theme.topBarOption)
-	term.write("shf ")
-	term.setTextColor(theme.topBarClose)
-	term.write("X")
+	monitor.setCursorPos(1, 1)
+	monitor.setBackgroundColor(theme.topBar)
+	monitor.setTextColor(theme.topBarTitle)
+	monitor.write("wave-amp2 (with OpenNBS support)")
+	monitor.write((" "):rep(screenWidth - 49))
+	monitor.setTextColor(trackMode == 1 and theme.topBarOptionSelected or theme.topBarOption)
+	monitor.write("nrm ")
+	monitor.setTextColor(trackMode == 2 and theme.topBarOptionSelected or theme.topBarOption)
+	monitor.write("stp ")
+	monitor.setTextColor(trackMode == 3 and theme.topBarOptionSelected or theme.topBarOption)
+	monitor.write("rep ")
+	monitor.setTextColor(trackMode == 4 and theme.topBarOptionSelected or theme.topBarOption)
+	monitor.write("shf ")
+	monitor.setTextColor(theme.topBarClose)
+	monitor.write("X")
 
 	local scrollnub = math.floor(trackScroll / (#tracks - screenHeight + 7) * (screenHeight - 10) + 0.5)
 
-	term.setTextColor(theme.song)
-	term.setBackgroundColor(theme.songBackground)
+	monitor.setTextColor(theme.song)
+	monitor.setBackgroundColor(theme.songBackground)
 	for i = 1, screenHeight - 7 do
 		local index = i + trackScroll
-		term.setCursorPos(1, i + 1)
-		term.setTextColor(index == currentTrack and theme.songSelected or theme.song)
-		term.setBackgroundColor(index == currentTrack and theme.songSelectedBackground or theme.songBackground)
+		monitor.setCursorPos(1, i + 1)
+		monitor.setTextColor(index == currentTrack and theme.songSelected or theme.song)
+		monitor.setBackgroundColor(index == currentTrack and theme.songSelectedBackground or theme.songBackground)
 		local str = ""
 		if tracks[index] then
 			local track = tracks[index]
@@ -1540,17 +1540,17 @@ local function drawStatic()
 		if #str > screenWidth - 1 then
 			str = str:sub(1, screenWidth - 3)..".."
 		end
-		term.write(str)
-		term.write((" "):rep(screenWidth - 1 - #str))
-		term.setBackgroundColor((i >= scrollnub + 1 and i <= scrollnub + 3) and theme.scrollBar or theme.scrollBackground)
+		monitor.write(str)
+		monitor.write((" "):rep(screenWidth - 1 - #str))
+		monitor.setBackgroundColor((i >= scrollnub + 1 and i <= scrollnub + 3) and theme.scrollBar or theme.scrollBackground)
 		if i == 1 then
-			term.setTextColor(theme.scrollButton)
-			term.write(_HOST and "\30" or "^")
+			monitor.setTextColor(theme.scrollButton)
+			monitor.write(_HOST and "\30" or "^")
 		elseif i == screenHeight - 7 then
-			term.setTextColor(theme.scrollButton)
-			term.write(_HOST and "\31" or "v")
+			monitor.setTextColor(theme.scrollButton)
+			monitor.write(_HOST and "\31" or "v")
 		else
-			term.write(" ")
+			monitor.write(" ")
 		end
 	end
 end
@@ -1568,39 +1568,39 @@ local function drawDynamic()
 		end
 		local full = math.floor(part / vsStep * screenWidth + 0.5)
 		local easing = math.floor(vsEasings[i] / vsStep * screenWidth + 0.5)
-		term.setCursorPos(1, screenHeight - 6 + i)
-		term.setBackgroundColor(theme.visualiserBar)
-		term.setTextColor(theme.visualiserBackground)
-		term.write((" "):rep(full))
-		term.write((_HOST and "\127" or "#"):rep(math.floor((easing - full) / 2)))
-		term.setBackgroundColor(theme.visualiserBackground)
-		term.setTextColor(theme.visualiserBar)
-		term.write((_HOST and "\127" or "#"):rep(math.ceil((easing - full) / 2)))
-		term.write((" "):rep(screenWidth - easing))
+		monitor.setCursorPos(1, screenHeight - 6 + i)
+		monitor.setBackgroundColor(theme.visualiserBar)
+		monitor.setTextColor(theme.visualiserBackground)
+		monitor.write((" "):rep(full))
+		monitor.write((_HOST and "\127" or "#"):rep(math.floor((easing - full) / 2)))
+		monitor.setBackgroundColor(theme.visualiserBackground)
+		monitor.setTextColor(theme.visualiserBar)
+		monitor.write((_HOST and "\127" or "#"):rep(math.ceil((easing - full) / 2)))
+		monitor.write((" "):rep(screenWidth - easing))
 	end
 
 	local progressnub = math.floor((instance.tick / track.length) * (screenWidth - 14) + 0.5)
 
-	term.setCursorPos(1, screenHeight)
-	term.setTextColor(theme.progressTime)
-	term.setBackgroundColor(theme.progressBackground)
-	term.write(formatTime(instance.tick / track.tempo))
+	monitor.setCursorPos(1, screenHeight)
+	monitor.setTextColor(theme.progressTime)
+	monitor.setBackgroundColor(theme.progressBackground)
+	monitor.write(formatTime(instance.tick / track.tempo))
 
-	term.setTextColor(theme.progressLine)
-	term.write("\136")
-	term.write(("\140"):rep(progressnub))
-	term.setTextColor(theme.progressNub)
-	term.setBackgroundColor(theme.progressNubBackground)
-	term.write(theme.progressNubChar)
-	term.setTextColor(theme.progressLine)
-	term.setBackgroundColor(theme.progressBackground)
-	term.write(("\140"):rep(screenWidth - 14 - progressnub))
-	term.write("\132")
+	monitor.setTextColor(theme.progressLine)
+	monitor.write("\136")
+	monitor.write(("\140"):rep(progressnub))
+	monitor.setTextColor(theme.progressNub)
+	monitor.setBackgroundColor(theme.progressNubBackground)
+	monitor.write(theme.progressNubChar)
+	monitor.setTextColor(theme.progressLine)
+	monitor.setBackgroundColor(theme.progressBackground)
+	monitor.write(("\140"):rep(screenWidth - 14 - progressnub))
+	monitor.write("\132")
 
-	term.setTextColor(theme.progressTime)
-	term.write(formatTime(track.length / track.tempo).." ")
-	term.setTextColor(theme.progressButton)
-	term.write(instance.playing and (_HOST and "|\016" or "|>") or "||")
+	monitor.setTextColor(theme.progressTime)
+	monitor.write(formatTime(track.length / track.tempo).." ")
+	monitor.setTextColor(theme.progressButton)
+	monitor.write(instance.playing and (_HOST and "|\016" or "|>") or "||")
 end
 
 local function playSong(index)
@@ -1727,10 +1727,10 @@ local function run()
 				nextSong()
 			end
 			drawDynamic()
-		elseif e[1] == "terminate" then
+		elseif e[1] == "monitorinate" then
 			running = false
-		elseif e[1] == "term_resize" then
-			screenWidth, screenHeight = term.getSize()
+		elseif e[1] == "monitor_resize" then
+			screenWidth, screenHeight = monitor.getSize()
 		elseif e[1] == "mouse_click" then
 			handleClick(e[3], e[4])
 		elseif e[1] == "mouse_scroll" then
@@ -1743,10 +1743,10 @@ end
 
 local function exit()
 	if noUI then return end
-	term.setBackgroundColor(colors.black)
-	term.setTextColor(colors.white)
-	term.setCursorPos(1, 1)
-	term.clear()
+	monitor.setBackgroundColor(colors.black)
+	monitor.setTextColor(colors.white)
+	monitor.setCursorPos(1, 1)
+	monitor.clear()
 end
 
 init({...})
