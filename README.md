@@ -1,3 +1,5 @@
+This fork works with monitors !
+
 # wave-amp2
 ### wave-amp2 is a fully-featured music player for  CC: Tweaked, based on [wave-amp](http://www.computercraft.info/forums2/index.php?/topic/28091-wave-amp-a-fully-featured-music-player/) powered by [wave](https://github.com/CrazedProgrammer/wave), now with OpenNBS support.
 
