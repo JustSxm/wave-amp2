@@ -1,5 +1,6 @@
 This fork works with monitors !
-
+It also works with putting wireless speakers everywhere in your world! 
+Simply put a wireless modem ontop of your main computer, and use the other script in your other computers. They must have a speaker attached and a wireless modem
 # wave-amp2
 ### wave-amp2 is a fully-featured music player for  CC: Tweaked, based on [wave-amp](http://www.computercraft.info/forums2/index.php?/topic/28091-wave-amp-a-fully-featured-music-player/) powered by [wave](https://github.com/CrazedProgrammer/wave), now with OpenNBS support.
 
